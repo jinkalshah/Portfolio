@@ -1,0 +1,15 @@
+.btn-circle.btn-sm { 
+    width: 30px; 
+    height: 30px; 
+    padding: 6px 0px; 
+    border-radius: 15px; 
+    font-size: 8px; 
+    text-align: center; 
+}
+.container h2{
+    color: rgb(0, 0, 0);
+}
+.list-group-item{
+    width: 170px;
+    word-wrap: break-word;
+}
